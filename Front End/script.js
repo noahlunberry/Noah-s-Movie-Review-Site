@@ -32,7 +32,7 @@ function returnMovies(url) {
                 const center = document.createElement('center');
 
                 //if the movie title is more than 35 characters long it shrinks it down for you
-                const movieTitle = element.title.length > 24 ? `${element.title.slice(0, 24)}...` : element.title;
+                const movieTitle = element.title.length > 22 ? `${element.title.slice(0, 22)}...` : element.title;
                 title.innerHTML = `${movieTitle}<br><a href="movie.html?id=${element.id}&title=${element.title}" class="reviews">Reviews</a>`;
 
                 image.src = IMG_PATH + element.poster_path;
