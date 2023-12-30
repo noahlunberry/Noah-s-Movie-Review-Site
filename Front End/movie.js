@@ -4,7 +4,7 @@ const movieTitle = url.searchParams.get("title")
 
 
 
-const APILINK = 'http://localhost:8000/api/v1/reviews/';
+const APILINK = 'https://noahs-movie-review-site.onrender.com/api/v1/reviews/';
 
 const main = document.getElementById("section");
 const title = document.getElementById("title");
