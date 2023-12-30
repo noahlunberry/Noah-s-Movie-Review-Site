@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #131720;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: teal ;
+    padding: 10px;
+}
+
+
+.topnav a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.topnav .search-container{
+    float: right;
+}
+
+form{
+    background-color: #151f30;
+    width: 300px;
+    height: 43px;
+    border-radius: 11.5px;
+    display: flex;
+}
+
+input {
+    all: unset;
+    font: 15px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 9px;
+
+}
+
+.thumbnail {
+    height: 350px;
+    width: 220px;
+    border-radius: 19px;
+
+}
+/*i give up on shit too easily whenever i hit a road block or dont want to do it */
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px 10px;
+
+}
+
+.card{
+    font-family: "Segoe UI Emoji", "Noto Color Emoji", "Arial", "Helvetica", sans-serif;
+    border-radius: 19px;
+    padding: 15px;
+    text-align: center;
+    background-color: #151f30;
+    text-decoration: none;
+
+  }
+
+h2 {
+    color: white;
+}
+
+.active {
+    font-size: 60px;
+}
+
+.reviews {
+    color: hotpink;
+    font-size: 16px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+.styleforreviews {
+    color: white;
+    margin-left: 20px;
+}
+
+.reviewInput {
+    font: 15px system-ui;
+    color: black;
+    height: 100%;
+    width: 100%;
+    padding: 6px 9px;
+
+}
+
+.newReview {
+    color:white;
+    font-size: 19px;
+}
+
+.reviewInput {
+    all: revert;
+    color: black;
+
+}
+
+a {
+    text-decoration: none;
+}
