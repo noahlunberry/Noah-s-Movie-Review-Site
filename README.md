@@ -34,17 +34,17 @@
     <img src="/N.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Noah's Movie Review Site</h3>
+<h3 align="center">Noah's Movie Review Site</h3>
 
   <p align="center">
-    Read/write movie reviews for your favorite movies with ease!
+    project_description
     <br />
     <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">View Demo</a>
     ·
-    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">Report Bug</a>
+    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues">Report Bug</a>
     ·
     <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues">Request Feature</a>
   </p>
@@ -83,26 +83,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[![Product Name Screen Shot][product-screenshot]](/Capture.PNG)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `noahlunberry`, `Noah-s-Movie-Review-Site`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -133,12 +122,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/noahlunberry/Noah-s-Movie-Review-Site.git
    ```
 3. Install NPM packages
    ```sh
@@ -167,15 +154,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,9 +195,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@instagram_handle](https://www.instagram.com/noahlunberry/) - nlunberry@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/noahlunberry/Noah-s-Movie-Review-Site](https://github.com/noahlunberry/Noah-s-Movie-Review-Site)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,16 +206,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,18 +216,18 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/CONTRIBUTERS-1-green
-[contributors-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site
-[forks-shield]: https://img.shields.io/badge/FORKS-0-blue
-[forks-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site
-[stars-shield]: https://img.shields.io/badge/STARS-0-blue
-[stars-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site
-[issues-shield]: https://img.shields.io/badge/ISSUES-1%20OPEN-yellow
+[contributors-shield]: https://img.shields.io/github/contributors/noahlunberry/Noah-s-Movie-Review-Site.svg?style=for-the-badge
+[contributors-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/noahlunberry/Noah-s-Movie-Review-Site.svg?style=for-the-badge
+[forks-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/network/members
+[stars-shield]: https://img.shields.io/github/stars/noahlunberry/Noah-s-Movie-Review-Site.svg?style=for-the-badge
+[stars-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/stargazers
+[issues-shield]: https://img.shields.io/github/issues/noahlunberry/Noah-s-Movie-Review-Site.svg?style=for-the-badge
 [issues-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues
-[license-shield]: https://img.shields.io/badge/LICENSE-MIT-green
-[license-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/LINKEDIN-grey?logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/noah-lunberry-134391233/
+[license-shield]: https://img.shields.io/github/license/noahlunberry/Noah-s-Movie-Review-Site.svg?style=for-the-badge
+[license-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/noah-lunberry-134391233
 [product-screenshot]: /Capture.PNG
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
