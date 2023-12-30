@@ -106,20 +106,19 @@ The entire web app is hosted with the help of <a href="https://render.com/">Rend
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+If you are interested in running this site locally, here are the steps. There are a few prerequisites that you must install and setup before running this webapp, as it utilizes several outside APIs and uses different pre-compiled libraries to help setup the server/database.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+First you must install the dependencies: Node Package Manager. This will fetch the necessary packages from the npm registry. These include libraries, tools, and other code this project needs.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://www.themoviedb.org/?language=en-US](https://www.themoviedb.org/?language=en-US)
 2. Clone the repo
    ```sh
    git clone https://github.com/noahlunberry/Noah-s-Movie-Review-Site.git
@@ -128,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `script.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -140,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Once the needed dependencies are installed, start the server by running the 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
