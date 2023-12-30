@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Product Name Screen Shot](Capture.PNG)
+[![Product Name Screen Shot][product-screenshot]](https://noahmoviesite.onrender.com/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `noahlunberry`, `Noah-s-Movie-Review-Site`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
