@@ -139,7 +139,7 @@ First you must install the dependencies: Node Package Manager. This will fetch t
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once the needed dependencies are installed, start the server by running the 
+Once the needed dependencies are installed, start the server by running node index.js
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -150,10 +150,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Being able to like other people's reviews
+- [ ] Being able to give a movie stars out of five
+- [ ] Create a user login profile 
+    - [ ] Add friends
 
 See the [open issues](https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues) for a full list of proposed features (and known issues).
 
@@ -202,9 +202,9 @@ Project Link: [https://github.com/noahlunberry/Noah-s-Movie-Review-Site](https:/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [FreeCodeCamp](https://www.youtube.com/watch?v=nu_pCVPKzTk)
+* [RenderHelp](https://www.youtube.com/watch?v=P_c7Wn2eU68)
+* [MongoDb Help](https://www.reddit.com/r/javascript/comments/10dm1d1/nodejs_mongodb_the_complete_guide/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
