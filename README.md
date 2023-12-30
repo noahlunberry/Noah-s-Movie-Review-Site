@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/Front End/sms.ico" alt="Logo" width="80" height="80">
+  <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">
+    <img src="/N.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Noah's Movie Review Site</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Read/write movie reviews for your favorite movies with ease!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues">Request Feature</a>
   </p>
 </div>
 
@@ -251,7 +251,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/noahlunberry/Noah-s-Movie-Review-Site/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LINKEDIN-grey?logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/noah-lunberry-134391233/
-[product-screenshot]: /Front-End/forthereadme/Capture.png
+[product-screenshot]: /Capture.PNG
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
