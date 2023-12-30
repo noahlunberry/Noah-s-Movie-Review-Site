@@ -37,12 +37,12 @@
 <h3 align="center">Noah's Movie Review Site</h3>
 
   <p align="center">
-    project_description
+    Built during the winter break after my first semester of CS. Learned how to use HTML, CSS, JavaScript, MongoDB, NodeJS, and other valuable tools used to create both the front end and the back end of this web app. Feel free to visit the site and leave reviews on some of your favorite movies!
     <br />
     <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site">View Demo</a>
+    <a href="https://noahmoviesite.onrender.com/">View Demo</a>
     ·
     <a href="https://github.com/noahlunberry/Noah-s-Movie-Review-Site/issues">Report Bug</a>
     ·
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://noahmoviesite.onrender.com/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `noahlunberry`, `Noah-s-Movie-Review-Site`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The entire web app is hosted with the help of <a href="https://render.com/">Render</a>, including the NodeJS server and the static web app. The database is hosted for free on <a href="https://www.mongodb.com/">MongoDB</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,10 +97,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,14 +226,14 @@ Project Link: [https://github.com/noahlunberry/Noah-s-Movie-Review-Site](https:/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/noah-lunberry-134391233
 [product-screenshot]: /Capture.PNG
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
+[Next.js]: https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white
+[Next-url]: https://www.mongodb.com/
+[React.js]: https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB
+[React-url]: https://nodejs.org/en
+[Vue.js]: https://img.shields.io/badge/Express.js-35495E?style=for-the-badge&logo=express&logoColor=4FC08D
+[Vue-url]: https://expressjs.com/
+[Angular.io]: https://img.shields.io/badge/Render-DD0031?style=for-the-badge&logo=render&logoColor=white
+[Angular-url]: https://render.com
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
